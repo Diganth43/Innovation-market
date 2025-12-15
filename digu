@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Innovation Market</title>
+</head>
+<body>
+
+  <h1>Welcome to Innovation Market</h1>
+  <p>Buy innovative project and business ideas.</p>
+
+  <hr>
+
+  <h2>Available Idea</h2>
+  <h3>Smart Drip Irrigation System</h3>
+  <p>An idea to save water using sensors and automation.</p>
+
+  <a href="success.html">
+    <button>Buy Idea (₹50)</button>
+  </a>
+
+</body>
+</html>
